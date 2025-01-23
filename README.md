@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de IA`**
 
-Olá meu nome é Ruan, tenho 15 anos e sou natural de Assis SP. Concluindo o 1 Ano do Ensino Médio. Atualmente, estou cursando Desenvolvimento Full Stack Python na EBAC e construindo alguns projetos pessoais. Gosto muito de tecnologia e tenho o sonho de trabalhar no ramo da programação de IA.
+Hello, my name is Ruan, I'm 15 years old and I'm from Assis SP. Completing the 1st year of high school. I'm currently studying Full Stack Python Development at EBAC and building some personal projects. I really like technology and I dream of working in the field of AI programming.
 
 <p align="left">
     <a href="https://www.youtube.com/@RNNKK">
