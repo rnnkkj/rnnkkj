@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de IA`**
 
-Hello, my name is Ruan, I'm 15 years old and I'm from Assis SP. Completing the 1st year of high school. I'm currently studying Python at EBAC and Rocketseat. And building some personal projects. I really like technology and dream of working in the area of ​​AI development.
+Hello, my name is Ruan, I'm 15 years old and I'm from Assis SP. Completing the 1st year of high school. I'm currently studying Python at EBAC. And building some personal projects. I really like technology and dream of working in the area of ​​AI development.
 
 <p align="left">
     <a href="https://www.youtube.com/@RNNKK">
